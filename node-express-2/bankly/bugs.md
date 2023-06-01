@@ -1,0 +1,5 @@
+- BUG #1: auth.js login route isnt awaiting user info.
+- BUG #2: made new funciton of basicInfo 
+- BUG #3: fixed getAll. does not need username or password.
+- BUG 4: error handling.
+- BUG #5: error handling for 404
